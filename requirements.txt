@@ -1,0 +1,4 @@
+# requirements.txt
+python~=3.7
+Django~=2.1.5
+
